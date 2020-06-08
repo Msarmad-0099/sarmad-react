@@ -7,7 +7,7 @@ function App() {
     <div className="App" >
       <Dinner dishName="Chicken Khari" sweetdishName="custered"/>
       <Dinner dishName="Zinger" sweetdishName="Russian salad"/>
-      <Dinner dishName="Nehari" sweetdishName="carrat halwa"/>
+      <Dinner dishName="Nehari" sweetdishName="Icecream"/>
     </div>
   );
 }
